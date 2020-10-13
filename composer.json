@@ -6,5 +6,7 @@
             "email": "benabcd5779@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.41"
+    }
 }
